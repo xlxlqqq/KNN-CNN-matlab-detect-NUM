@@ -14,3 +14,7 @@ with Binarization
 ## CNN
 <Lenet>
 
+##
+
+read2Mat.m is designed to transfer the DataBase(from mnist) to .mat files(matlab file table)
+
